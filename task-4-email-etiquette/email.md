@@ -1,4 +1,4 @@
-#Email 1 - Assignment Extension
+## Email 1 - Assignment Extension
 
 
 Subject: Request for Extension on Assignment Submission
@@ -20,7 +20,7 @@ VIT Bhopal University
 
 
 
-#Email 2 - Internship
+## Email 2 - Internship
 
 
 Subject: Expression of Interest for Summer Internship Opportunity
