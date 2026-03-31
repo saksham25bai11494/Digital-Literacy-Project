@@ -2,7 +2,7 @@
 
 ## Student Details
 **Name:** Saksham Nema  
-**Registration Number:** [Your Reg No.]  
+**Registration Number:** [25BAI11494]  
 **Branch:** CSE AIML  
 **Year:** 1st Year  
 **Course Code:** CSE0001  
@@ -37,16 +37,10 @@ Prepared a case study on UPI/Online Payment Fraud and created a prevention check
 ## Useful Links
 
 ### Google Form Link
-[Paste your Google Form link here]
+https://forms.gle/heJRtggSCwZmuroR6
 
 ### GitHub Profile
-[Paste your GitHub profile link here]
-
-### LinkedIn Profile
-[Paste your LinkedIn profile link here]
-
-### Kaggle Profile
-[Paste your Kaggle profile link here]
+https://github.com/saksham25bai11494
 
 ---
 
